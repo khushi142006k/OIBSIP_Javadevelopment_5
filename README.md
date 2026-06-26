@@ -95,7 +95,5 @@ When launching the application for the first time, the `data/` folder files will
 
 *Note: Once logged in as an administrator, you can register new administrators and users directly through the console menu.*
 
----
 
-## 📄 License
-This project is developed for educational purposes under the Oasis InfoByte Java Development Internship. Feel free to use and modify it for your learning or projects!
+
